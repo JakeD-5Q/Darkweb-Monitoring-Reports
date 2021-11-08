@@ -1,0 +1,38 @@
+{
+    "balance": 100,
+    "entries": [
+        {
+            "id": 5603803856,
+            "email": "test@test",
+            "username": "",
+            "password": "test",
+        },
+        {
+            "id": 3832396167,
+            "email": "test-test@hotmail.fr",
+            "username": "",
+            "password": "test-test-test-test",
+        },
+        {
+            "id": 6892498744,
+            "email": "fthallah94@hotmail.com",
+            "username": "",
+            "password": "test-test-test",
+        },
+        {
+            "id": 5603734544,
+            "email": "test!test!test@test.com",
+            "username": "",
+            "password": "test",
+        },
+        {
+            "id": 5603736859,
+            "email": "test-test-test-test@web.de",
+            "username": "",
+            "password": "master66",
+        }
+    ],
+    "success": true,
+    "took": "179µs",
+    "total": 5
+}
